@@ -18,10 +18,9 @@ in minutes instead of hours.
 ### Speaker
 
 **Renato Romão de Souza**
-6x Microsoft MVP (Azure AI & Copilot Studio) · 5x MCT
-
-- Website: [aihorizonsprague.cz](https://aihorizonsprague.cz/)
+7x Microsoft MVP (Azure AI & Copilot Studio) · 5x MCT
 - LinkedIn: [linkedin.com/in/renatoromao](https://www.linkedin.com/in/renatoromao/)
+- Website: [renatoromao.com](https://renatoromao.com/)
 
 ## About this repo
 
