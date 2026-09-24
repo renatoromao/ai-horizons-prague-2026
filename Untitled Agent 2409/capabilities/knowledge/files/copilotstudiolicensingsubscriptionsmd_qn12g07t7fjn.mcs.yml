@@ -1,0 +1,4 @@
+mcs.metadata:
+  componentName: copilot-studio-licensing-subscriptions.md
+  description: "Copilot Studio access/licensing paths at a conceptual level: individual trial, standalone subscription, and the Teams-plan entitlement, and how their capabilities differ. Positive: use for 'how do I get access to Copilot Studio' or 'what's the difference between the Teams plan and standalone' questions. Negative: never states current prices, Copilot Credit volumes, or quota numbers — always points to the official Licensing Guide / Quotas and Limits pages. Not for general billing structure — see Copilot Studio Billing (live-scope) — and not for messaging/consumption measurement — see Copilot Studio Messages Management (live-scope)."
+kind: FileAttachmentComponentMetadata

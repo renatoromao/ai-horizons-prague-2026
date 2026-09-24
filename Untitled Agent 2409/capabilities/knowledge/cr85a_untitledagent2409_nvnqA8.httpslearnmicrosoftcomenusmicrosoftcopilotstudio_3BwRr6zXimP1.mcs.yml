@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://learn.microsoft.com/en-us/microsoft-copilot-studio/
+  description: "General Copilot Studio documentation root: agent authoring concepts and general product features. Use for how to build and configure agents in Copilot Studio. Not for billing, messaging/consumption metering, or licensing/subscription specifics — see the sibling Copilot Studio Messages Management and Copilot Studio Billing Structure sources for those, and the Copilot Studio Licensing & Subscriptions snapshot for licensing details. This source never states prices or quotas."
+kind: KnowledgeSourceConfiguration
+source:
+  kind: WebsiteKnowledgeSource
+  siteUrl: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/"

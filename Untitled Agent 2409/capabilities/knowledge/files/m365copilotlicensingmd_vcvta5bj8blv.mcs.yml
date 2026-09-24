@@ -1,0 +1,4 @@
+mcs.metadata:
+  componentName: m365-copilot-licensing.md
+  description: "Microsoft 365 Copilot licensing model at a conceptual level: it is an add-on requiring an eligible base Microsoft 365/Office 365 subscription, and the distinction between the licensed Copilot add-on and the separately-eligible Copilot Chat experience. Never states current prices or a definitive eligible-plan list. Positive: 'do I need a specific license for M365 Copilot, conceptually', 'what's the difference between Copilot Chat and full Copilot'. Negative: not for technical/network rollout requirements — see the M365 Copilot Requirements knowledge file for that."
+kind: FileAttachmentComponentMetadata

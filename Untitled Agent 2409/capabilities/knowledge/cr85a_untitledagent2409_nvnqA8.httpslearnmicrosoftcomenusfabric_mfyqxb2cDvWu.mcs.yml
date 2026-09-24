@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://learn.microsoft.com/en-us/fabric/
+  description: "General Microsoft Fabric documentation: workspaces, items, tenant and workspace administration, and capacity/licensing concepts at a structural level. Use for how Fabric works and how it's organized. Not for exact license prices, SKU/capacity-unit pricing, or specific capacity-monitoring limits and thresholds — those are covered by the dedicated Fabric Licensing and Fabric Capacity Administration knowledge snapshots, which never state numbers either but point to the authoritative page."
+kind: KnowledgeSourceConfiguration
+source:
+  kind: WebsiteKnowledgeSource
+  siteUrl: "https://learn.microsoft.com/en-us/fabric/"

@@ -1,0 +1,4 @@
+mcs.metadata:
+  componentName: fabric-capacity-admin.md
+  description: "Fabric capacity administration: how a capacity admin creates, renames, resizes, deletes, and configures a capacity from the Admin portal, plus the delegated tenant-settings model. Positive: 'how do I configure/monitor/resize a Fabric capacity'. Negative: not for 'which SKU size should I buy' or pricing questions — see the Fabric Licenses knowledge file for that. No SKU sizes, capacity-unit values, or prices are stated here."
+kind: FileAttachmentComponentMetadata

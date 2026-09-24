@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-messages-management
+  description: "Copilot Studio messages and consumption model: what counts as a message and how usage is measured conceptually. Use for 'how is usage measured' or 'what counts as a message' questions. Not for the price per message or message-allowance quotas — no numbers are retrievable from this source; for prices, redirect to the official Copilot Studio billing page. Distinct from the Copilot Studio Billing Structure source, which covers how billing itself is structured rather than what counts as usage."
+kind: KnowledgeSourceConfiguration
+source:
+  kind: WebsiteKnowledgeSource
+  siteUrl: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-messages-management"

@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://learn.microsoft.com/en-us/microsoft-365/copilot/
+  description: "General Microsoft 365 Copilot documentation root: product capabilities and admin rollout guidance. Use for how M365 Copilot works and how admins roll it out. Not for licensing specifics or prerequisite-license details — see the M365 Copilot Licensing knowledge snapshot for the licensing model, and the M365 Copilot Requirements snapshot for technical rollout requirements. This source never states prices."
+kind: KnowledgeSourceConfiguration
+source:
+  kind: WebsiteKnowledgeSource
+  siteUrl: "https://learn.microsoft.com/en-us/microsoft-365/copilot/"

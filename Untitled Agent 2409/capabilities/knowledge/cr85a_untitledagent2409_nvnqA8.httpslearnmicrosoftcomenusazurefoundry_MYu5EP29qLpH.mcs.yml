@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://learn.microsoft.com/en-us/azure/foundry/
+  description: "General Microsoft Foundry (formerly Azure AI Foundry) documentation: projects, models, and deployment options and concepts. Use the canonical /azure/foundry/ path only, never the deprecated /azure/ai-foundry/ path. Not for exact pricing or quota numbers — for those, tell the user to check the official Microsoft Foundry pricing page rather than citing a figure. Distinct from Microsoft Fabric capacity sources: Foundry 'quota' and 'project' concepts are a different product from Fabric 'capacity' — do not conflate them."
+kind: KnowledgeSourceConfiguration
+source:
+  kind: WebsiteKnowledgeSource
+  siteUrl: "https://learn.microsoft.com/en-us/azure/foundry/"

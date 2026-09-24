@@ -1,0 +1,4 @@
+mcs.metadata:
+  componentName: m365-copilot-requirements.md
+  description: "Microsoft 365 Copilot technical/admin requirements for rollout: per-app prerequisites (Outlook, Teams, Loop, Whiteboard, Teams Phone), privacy-setting review, the Office Feature Updates task, and network/WebSocket connectivity requirements. Positive: 'what do I need to configure to roll out M365 Copilot technically'. Negative: not for licensing or cost questions — see the M365 Copilot Licensing knowledge file for that."
+kind: FileAttachmentComponentMetadata

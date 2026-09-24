@@ -1,0 +1,7 @@
+mcs.metadata:
+  componentName: https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing
+  description: "Copilot Studio billing structure: how billing works conceptually (e.g. how capacity/consumption relates to cost). Use for 'how does Copilot Studio billing work' questions. Not for exact prices — no numbers are retrievable from this source; for prices, redirect to the official Copilot Studio billing page. Distinct from the Copilot Studio Messages Management source, which covers usage measurement rather than billing structure itself."
+kind: KnowledgeSourceConfiguration
+source:
+  kind: WebsiteKnowledgeSource
+  siteUrl: "https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing"

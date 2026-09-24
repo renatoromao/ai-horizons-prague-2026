@@ -1,0 +1,4 @@
+mcs.metadata:
+  componentName: fabric-licenses.md
+  description: "Fabric SKU/tier structure at a conceptual level: what capacity tiers exist and what they're for, the two purchase channels (Azure F capacities vs Microsoft 365 P capacities), workspace types, and per-user license types. Never states current prices or SKU capacity-unit values — always says to see the official page for current pricing. Positive: 'what is a Fabric capacity/SKU/tier, conceptually'. Negative: not for capacity administration/monitoring tasks — see the Fabric Capacity Administration knowledge file for that."
+kind: FileAttachmentComponentMetadata
